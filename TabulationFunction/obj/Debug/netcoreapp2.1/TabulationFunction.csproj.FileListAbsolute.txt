@@ -1,0 +1,13 @@
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\bin\Debug\netcoreapp2.1\TabulationFunction.deps.json
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\bin\Debug\netcoreapp2.1\TabulationFunction.runtimeconfig.json
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\bin\Debug\netcoreapp2.1\TabulationFunction.runtimeconfig.dev.json
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\bin\Debug\netcoreapp2.1\TabulationFunction.dll
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\bin\Debug\netcoreapp2.1\TabulationFunction.pdb
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.csprojAssemblyReference.cache
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.csproj.CoreCompileInputs.cache
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.AssemblyInfoInputs.cache
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.AssemblyInfo.cs
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.dll
+C:\Users\Sharif\source\repos\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.pdb
+C:\Users\warrk\Downloads\Учёба\!!Курсач\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.dll
+C:\Users\warrk\Downloads\Учёба\!!Курсач\TabulationFunction\TabulationFunction\obj\Debug\netcoreapp2.1\TabulationFunction.pdb
